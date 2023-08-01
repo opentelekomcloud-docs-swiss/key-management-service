@@ -1,3 +1,8 @@
-======================================================
-Welcome to the documentation of key-management-service
-======================================================
+Key Management Service
+======================
+
+.. directive_wrapper::
+   :class: container-sbv
+
+   .. service_card::
+      :service_type: kms
