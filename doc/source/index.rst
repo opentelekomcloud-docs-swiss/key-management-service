@@ -9,5 +9,6 @@ Key Management Service (KMS) is a secure, reliable, and easy-to-use service that
 
    .. service_card::
       :service_type: kms
+      :cloud_environment: swiss
       :umn: This document helps you know about the Key Management Service (KMS) and know how to manage keys.
       :api-ref: This document describes application programming interfaces (APIs) of the Key Management Service (KMS) and provides API parameter description and example values.
